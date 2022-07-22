@@ -1,0 +1,7 @@
+name: XrayCheck
+version: 1.0.0
+main: civciv.xraycheck.XrayCheck
+api-version: 1.16
+prefix: XRAY-CHECK
+authors: [ _KatilCivciv_ ]
+description: xray notify plugin

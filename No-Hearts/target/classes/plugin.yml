@@ -1,0 +1,8 @@
+name: NoHearts
+version: 1.0.0
+main: civciv.NoHearts
+api-version: 1.16
+prefix: [No-Hearts]
+depend: [ ProtocolLib ]
+authors: [ _KatilCivciv_ ]
+description: this plugin removing the heart effects

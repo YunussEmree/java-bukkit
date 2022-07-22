@@ -1,0 +1,5 @@
+#XRAYCHECK Config V1.0.0
+
+xraycheck:
+  blocks: ["ANCIENT_DEBRIS", "DIAMOND_ORE"]
+  #default: ["ANCIENT_DEBRIS", "DIAMOND_ORE"]

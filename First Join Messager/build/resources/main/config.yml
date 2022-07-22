@@ -1,0 +1,23 @@
+custommessager:
+  joinmessages:
+    enabled: true
+    onlyfirstjoin: true
+    messages:
+      - "&6Big &a%player%&6 showed up!"
+      - "&a%player%&6 just slid into the server."
+      - "&6A &a%player%&6 has spawned in the server."
+      - "&6Swoooosh. &a%player%&6 just landed."
+      - "&6Welcome, &a%player%&6. We hope you brought pizza."
+      - "&6Welcome, &a%player%&6. We were expecting you ( ͡° ͜ʖ ͡°)"
+      - "&a%player%&6 just arrived. Seems OP - please nerf."
+      - "&6Where’s &a%player%&6? In the server!"
+      - "&a%player%&6 hopped into the server. Kangaroo!!"
+      - "&a%player%&6 just showed up. Hold my beer."
+      - "&6Roses are red, violets are blue, &a%player%&&6 joined this server with you!"
+      - "&6It's a bird! It's a plane! Nevermind, it's just &a%player%&6."
+      -
+  quitmessages:
+    enabled: false
+    messages:
+      - "&a%player%&6 has arrived. Party's over."
+      - "&a%player%&6 has left the party."

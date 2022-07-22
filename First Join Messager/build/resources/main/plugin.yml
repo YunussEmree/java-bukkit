@@ -1,0 +1,6 @@
+name: Firstjoinmessager
+version: 1.0.0
+main: provanasservices.Firstjoinmessager
+authors: ProvanasServices
+log_prefix: FIRSTJOINMESSAGER
+api-version: 1.17
