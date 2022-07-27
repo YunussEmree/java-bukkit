@@ -1,0 +1,4 @@
+name: Fcommand
+version: '1.0-SNAPSHOT'
+main: ProvanasServices.fcommand.Main
+api-version: 1.16

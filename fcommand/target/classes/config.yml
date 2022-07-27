@@ -1,0 +1,7 @@
+fcommand:
+  cooldown: 2
+  #Cooldown of command
+  banitem: ["SHIELD", "NETHER_STAR"]
+  #Banitem for fcommand. if player has these items in right or left hand, command not will send
+  cooldownmessage: "Warming up: %time% seconds"
+  command: "say Hi. I'm %player%"
