@@ -1,5 +1,7 @@
-#XRAYCHECK Config V1.0.0
+#XRAYCHECK Config V1.0.1
 
 xraycheck:
   blocks: ["ANCIENT_DEBRIS", "DIAMOND_ORE"]
+  permission: "xray.check"
+  warntext: "&6[XRAY-NOTIFY] &4%player%&c, break a &f%block%"
   #default: ["ANCIENT_DEBRIS", "DIAMOND_ORE"]
