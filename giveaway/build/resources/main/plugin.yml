@@ -1,0 +1,10 @@
+name: giveaway
+version: '1.0-SNAPSHOT'
+main: blestit.giveaway.Giveaway
+api-version: 1.16
+authors: [Blestit]
+description: plugin
+commands:
+  startgiveaway:
+    description: Start a giveaway
+    usage: /<command>
