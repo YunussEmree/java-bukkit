@@ -1,0 +1,4 @@
+name: ProvanasPlayerRespawn
+version: '1.0-SNAPSHOT'
+main: blestit.provanasplayerrespawn.ProvanasPlayerRespawn
+api-version: '1.16'
